@@ -23,3 +23,4 @@ After creating the Maven project, add the following snippet to the auto-generate
 ```
 
 To execute the file, build the project on your respective IDE and then click on Run. The code should run with auto-generated data from Java Faker.
+
