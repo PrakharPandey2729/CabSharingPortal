@@ -24,3 +24,11 @@ After creating the Maven project, add the following snippet to the auto-generate
 
 To execute the file, build the project on your respective IDE and then click on Run. The code should run with auto-generated data from Java Faker.
 
+# Use Case Diagram
+![image](https://github.com/PrakharPandey2729/CabSharingPortal/assets/74267764/02c9c5cc-6c43-4884-9d55-faddc8d9c0a6)
+
+# UML Class Diagram
+![Class Diagram](https://github.com/PrakharPandey2729/CabSharingPortal/assets/74267764/282eb8dc-eaf9-43aa-9f1e-dd1b5ef2203f)
+
+# UML Sequence Diagram
+![image](https://github.com/PrakharPandey2729/CabSharingPortal/assets/74267764/7d4cc90f-8a99-432e-8c5e-954b806d5ad2)
